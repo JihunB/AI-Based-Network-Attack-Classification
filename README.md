@@ -11,8 +11,8 @@ Tools Used:
 - xgboost
 
 Test Environment:
-CPU  13th Gen Intel(R) Core(TM) i9-13900
-RAM  64GB
-OS   Windows 11 Pro 23H2
-GPU  NVIDIA GeForce RTX 4070
-TOOL Anaconda, Jupyter Lab
+- CPU  13th Gen Intel(R) Core(TM) i9-13900
+- RAM  64GB
+- OS   Windows 11 Pro 23H2
+- GPU  NVIDIA GeForce RTX 4070
+- TOOL Anaconda, Jupyter Lab
